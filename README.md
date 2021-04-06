@@ -8,3 +8,4 @@ Identitas:
 Modifikasi:
 * Menjadikan inheritance merubah class Pintu menjadi class turunan dari class Item
 * Menghapus aksiPintu karena sudah di inheritance ke class Item
+* Menambahkan keyword super pada pintu
